@@ -10,6 +10,7 @@ We don't have a dictionary from the NY Times, so we're going to use two files (`
 
 Submit your completed code and one screenshot of your results using the solver to get Genius on the game. 
 
+Per a classmate, the Spelling Bee is partially paywalled. [Free Bee](https://freebee.fun/play/) seems like a decent potential substitute.
 
 
 
